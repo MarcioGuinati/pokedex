@@ -1,19 +1,7 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Pokédex - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      color: #E63B2E;
-    }
-    p {
-      line-height: 1.5;
-    }
-  </style>
 </head>
 <body>
   <h1>Pokédex</h1>
